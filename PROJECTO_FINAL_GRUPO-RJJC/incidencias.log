@@ -1,0 +1,104 @@
+
+************************************************
+    Timestamp: Fri Jul 21 13:49:46 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: La reserva 'DjJota' el dia 17, a las 15, ha causado un conflicto.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: La reserva 'DjJota' el dia 3, a las 15, ha causado un conflicto.
+
+************************************************
+    Timestamp: Fri Jul 21 14:12:33 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: La reserva 'DjJota' el dia 17, a las 15, ha causado un conflicto.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: La reserva 'DjJota' el dia 3, a las 15, ha causado un conflicto.
+
+************************************************
+    Timestamp: Fri Jul 21 17:09:44 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: La reserva 'DjJota' el dia 17, a las 15, ha causado un conflicto.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: La reserva 'DjJota' el dia 3, a las 15, ha causado un conflicto.
+
+************************************************
+    Timestamp: Fri Jul 21 17:10:21 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: La reserva 'DjJota' el dia 17, a las 15, ha causado un conflicto.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: La reserva 'DjJota' el dia 3, a las 15, ha causado un conflicto.
+
+************************************************
+    Timestamp: Fri Jul 21 17:18:05 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: La reserva 'DjJota' el dia 17, a las 15, ha causado un conflicto.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: La reserva 'DjJota' el dia 3, a las 15, ha causado un conflicto.
+
+************************************************
+    Timestamp: Fri Jul 21 17:19:50 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: The reservation for 'DjJota' on the  17, at 15, has caused a conflict.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: The reservation for 'DjJota' on the  3, at 15, has caused a conflict.
+
+************************************************
+    Timestamp: Fri Jul 21 17:19:56 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: The reservation for 'DjJota' on the  17, at 15, has caused a conflict.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: The reservation for 'DjJota' on the  3, at 15, has caused a conflict.
+
+************************************************
+    Timestamp: Fri Jul 21 17:47:53 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: The reservation for 'DjJota' on the  17, at 15, has caused a conflict.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: The reservation for 'DjJota' on the  3, at 15, has caused a conflict.
+
+************************************************
+    Timestamp: Fri Jul 21 17:52:36 CEST 2023
+************************************************
+Line that caused the error: 
+1 DjMota 17/08/2023 20/08/2023 12345 15-23
+Error: The reservation for 'DjJota' on the  17, at 15, has caused a conflict.
+
+Line that caused the error: 
+1 Valentin 17/08/2023 20/08/2023 12345 15-23
+Error: The reservation for 'DjMota' on the  17, at 19, has caused a conflict.
+
+Line that caused the error: 
+2 DjMota 03/08/2023 10/08/2023 45 15-23
+Error: The reservation for 'DjJota' on the  3, at 15, has caused a conflict.
+
